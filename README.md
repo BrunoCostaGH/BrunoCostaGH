@@ -1,6 +1,6 @@
 ### hi.
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/images/readme-light.png"/><img align="right" width="450" alt="Latest completed project published on GH." src=".github/assets/images/readme-dark.png"/></picture>](https://github.com/BrunoCostaGH/42cursus-minishell)
+[<picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/images/readme-light.png"/><img align="right" width="450" alt="42cursus-webserver" src=".github/assets/images/readme-dark.png"/></picture>](https://github.com/BrunoCostaGH/42cursus-webserv)
 **I'm Bruno!** I was born and raised in **Funchal, Madeira**, but I recently moved to **Porto** to chase my dream of becoming a software developer. I am currently a student at **42 Porto**, a peer-to-peer computer programming school. 
 
 We learn by completing projects, mainly in **C and C++**. The projects range from recreating simple real-world functions to rebuilding a mini version of the bash terminal, creating a web server, or even completing full-stack projects like creating a website from scratch with various features.
